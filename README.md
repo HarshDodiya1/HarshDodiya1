@@ -1,19 +1,79 @@
-<h1 align="center">Hi 👋, I'm Harsh!</h1>
-<h3 align="center">Passionate Computer Engineering Student.</h3>
-
-- 📫 How to reach me **dodiyaharsh999@gmail.com**
-- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-dodiya-197283255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-dodiya-197283255" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dodiyaharsh999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dodiyaharsh999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dodiyaharsh999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dodiyaharsh999" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harsh_dodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh_dodiya" height="30" width="40" /></a>
+<h1 align="center"><img src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Hi.gif" width="29px"> Hello I'm Harsh!</h1>
+<p align="center">
+<a href="mailto:dodiyaharsh999@gmail.com">
+<img alt="Commutatus gif" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Banner%20GIF.gif" width="90%" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center"><em>Pursuing a Bachelor's degree in Computer Engineering, I'm mastering technical skills  <img src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Rocket.gif" height="22px"> and problem-solving strategies vital to the field. Exploring different programming languages and engaging in projects <img src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Developer.gif" height="27px">  Through active participation in various events and activities, I'm cultivating a strong problem solving mindset and expanding my network within the tech community.</em></h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdodiya1&" alt="harshdodiya1" /></p>
 
+## Ask me about :computer: 
+- **Languages**
+	- C/C++
+	- Python
+	- Some Java
+<img align="right" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Developer.gif"/>
+
+
+- **Web Development**
+	- MERN Stack:white_check_mark:
+	- TypeScript :electron:
+	- NextJS
+  - Cloud
+  - WebRTC
+<br>
+
+
+## Account States
+<a href="https://github.com/HarshDodiya1" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HarshDodiya1&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/HarshDodiya1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDodiya1&theme=radical" />
+</a>
+<br>
+<br>
+
+
+## Recent working Repository
+<a href="https://github.com/HarshDodiya1/Razorpay-UI-using-Tailwind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Razorpay-UI-using-Tailwind&theme=radical" />
+</a>
+<br>
+<br>
+
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-dodiya-197283255/">
+    <img align="center" alt="Dodiya Harsh | Linkedin" width="24px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Linkedin.svg" />
+  </a>&nbsp;&nbsp;
+   <a href="https://leetcode.com/dodiyaharsh999/">
+    <img align="center" alt="Harsh Dodiya | LeetCode" width="24px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/leetcode.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/harsh_dodiya123/">
+    <img align="center" alt="Harsh Dodiya | Instagram" width="24px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:dodiyaharsh999@gmail.com">
+    <img align="center" alt="Harsh Dodiya | Gmail" width="26px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/Gmail.svg" />
+  </a>  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/dodiyaharsh999">
+    <img align="center" alt="Harsh Dodiya | HackerRank" width="26px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/HackerRank.svg" />
+  </a>  &nbsp;&nbsp;
+  
+   <a href="https://auth.geeksforgeeks.org/user/harsh_dodiya">
+    <img align="center" alt="Harsh Dodiya | GeeksforGeeks" width="26px" src="https://github.com/HarshDodiya1/HarshDodiya1/blob/main/Assets/geeksforgeeks.svg" />
+  </a>  &nbsp;&nbsp;
+<br/>
+<br/>
+  Thanks for stopping by 😁<br/>
+  </p>
+
+  
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarshDodiya1%2F" /></p>
