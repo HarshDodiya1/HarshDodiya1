@@ -38,11 +38,11 @@
 
 
 ## Recent working Repository
-<a href="https://github.com/HarshDodiya1/Razorpay-UI-using-Tailwind">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Razorpay-UI-using-Tailwind&theme=radical" />
-</a>
 <a href="https://github.com/HarshDodiya1/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=DSA&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=DSA&theme=radical" />
+</a>
+<a href="https://github.com/HarshDodiya1/Razorpay-UI-using-Tailwind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Razorpay-UI-using-Tailwind&theme=radical" />
 </a>
 <br>
 <br>
