@@ -39,7 +39,7 @@
 
 ## Recent working Repository
 <a href="https://github.com/HarshDodiya1/DSA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Sampark24&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Sampark2024&theme=radical" />
 </a>
 <a href="https://github.com/HarshDodiya1/Razorpay-UI-using-Tailwind">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDodiya1&repo=Blog-app&theme=radical" />
