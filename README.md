@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  Pursuing a Bachelor's degree in Computer Engineering, I'm passionate about building innovative solutions and mastering cutting-edge technologies. Through hands-on projects and continuous learning, I'm developing strong problem-solving skills and expanding my expertise across the tech stack.
+  Pursuing a Bachelor's degree in Computer Engineering, passionate about building innovative solutions.
 </p>
 
 <p align="center">
