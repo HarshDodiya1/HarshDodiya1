@@ -14,12 +14,9 @@
 </h3>
 
 <p align="center">
-  Pursuing a Bachelor's degree in Computer Engineering, passionate about building innovative solutions.
+  Think Slow, Code Fast!
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HarshDodiya1&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
 
 ---
 
