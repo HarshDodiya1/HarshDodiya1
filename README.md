@@ -13,13 +13,10 @@
   <em> 💻 Developer | 🎓 Computer Engineer</em>
 </h3>
 
-<p align="center">
-  Think Slow, Code Fast!
-</p>
-
-
+<p align="center">I do development, build project around them.</p>
+<p align="center">Think Slow, Code Fast! Always worked for me ;)</p>
+<p align="center">Always eager to contribute. 💖</p>
 ---
-
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <table>
@@ -44,6 +41,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"></a>
       <a href="#"><img src="https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css" alt="Tailwind"></a>
       <a href="#"><img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux"></a>
+	<a href="#"><img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"></a>
     </td>
   </tr>
   <tr>
@@ -53,6 +51,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js"></a>
       <a href="#"><img src="https://img.shields.io/badge/-Socket.IO-000000?style=flat&logo=socket.io" alt="Socket.IO"></a>
       <a href="#"><img src="https://img.shields.io/badge/-WebRTC-000000?style=flat&logo=webrtc" alt="WebRTC"></a>
+	<a href="#"><img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"></a>
       <a href="#"><img src="https://img.shields.io/badge/-NextAuth-000000?style=flat&logo=next.js" alt="NextAuth"></a>
     </td>
   </tr>
